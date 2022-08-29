@@ -1,0 +1,66 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+h1{
+  color: lime;
+  margin-top: 0;
+  font-style:
+}
+
+section > p{
+  margin: 0 auto;
+}
+
+section{
+  color: white;
+}
+
+#firstSection{
+  border-bottom: 0px:
+}
+
+.container{
+  width: 950px;
+  height: 750px;
+  margin: 0 auto;
+  border-radius: 20px;
+  background-color: rgba(0,0,0,0.5);
+  padding: 50px;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 60px;
+}
+
+.contLogo{
+  text-align: center;
+}
+
+.contInput{
+  background-color: lime;
+  padding: 10px;
+}
+
+.orange{
+  background-color: orange;
+  height: 20px;
+  width: 280px;
+  border-radius: 5px;
+}
+
+.green{
+  background-color: lime;
+  height: 20px;
+  width: 470px;
+  border-radius: 5px;
+}
+
+.red{
+background-color: red;
+height: 20px;
+width: 125px;
+border-radius: 5px;
+}
